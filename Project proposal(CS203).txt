@@ -1,0 +1,10 @@
+Team members -  Kapil Kumar(2020csb1093) , Nitin Agrawal(2020csb1104)
+Title – Elevator system
+Objective- We are going to make a logic design for an elevator system. It will be software application with some sensors.
+	       The code will be written in C++ language.
+Functionality –
+1.	System will consist of a digital design for working of the elevator with 3 floors.
+2.	It will have a weigh limit of 1000 kg.
+3.	It will have a navigation system i.e. it will show where the lift is and where it is going (up and down).
+4.	Example – If a person A is on ground floor enters the lift and press the button 3 inside lift and simultaneously another person B on 2nd floor outside lift press the button, then lift will open at 2nd floor and  B press the button G, then lift will first go to 3rd  floor and then it will go to ground floor. 
+Github link- https://github.com/KapilKumar05/CS203-PROJECT.git
